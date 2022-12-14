@@ -10,40 +10,46 @@ Vivian Njoroge
 
 <b>Project Structure</b>
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*JavaScript
+* JavaScript
 
 <b>Project Reqirements</b>
 
-*Use HTML,CSS and Javascript
+* Use HTML,CSS and Javascript
 
 * You should have regular git commits and the commit messages should be clear and concise.
 
 * Your application must be deployed and accessible through a remote URL.
 
-*Your project should be structured in an organized manner.
+* Your project should be structured in an organized manner.
 
-*Your web application should have proper styling. Ensure it looks professional and clean.
+* Your web application should have proper styling. Ensure it looks professional and clean.
 
-*Your app must be an HTML / CSS / JS frontend that accesses data from a public API. (Alternatively use a json-server)
+* Your app must be an HTML / CSS / JS frontend that accesses data from a public API. (Alternatively use a json-server)
 
-*Your entire app must run on a single page. 
+* Your entire app must run on a single page. 
 
-*Your app needs to incorporate at least 3 separate event listeners (DOMContentLoaded, click, change, submit, etc).
+* Your app needs to incorporate at least 3 separate event listeners (DOMContentLoaded, click, change, submit, etc).
 
-*Some interactivity is required. This could be as simple as adding a "like" button or adding comments. These interactions do not need to persist after reloading the page.
+* Some interactivity is required. This could be as simple as adding a "like" button or adding comments. These interactions do not need to persist after reloading the page.
 
-*Follow good coding practices. 
+* Follow good coding practices. 
 
-*Your repository should include a license. (Adding a license to a repository - GitHub Docs) 
+* Your repository should include a license. (Adding a license to a repository - GitHub Docs) 
 
-*Your project MVP should be completed within the stipulated timeline.
+* Your project MVP should be completed within the stipulated timeline.
 
 <b>Getting Started</b>
 
-*Clone this repository from here[githubrepo](git@github.com:lihavi/Phase-1-project.git)
+* Clone this repository from here[githubrepo]
+(git@github.com:lihavi/Phase-1-project.git)
 
-*
+* 
+
+
+<b>License</b>
+
+MIT License
