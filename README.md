@@ -5,9 +5,11 @@
 This project deals with  giving day to day railway transport schedule and allowing one to order a ticket according to the time that is convenient for them.
 
 <b>Author</b>
+
 Vivian Njoroge
 
 <b>Project Structure</b>
+
 *HTML
 
 *CSS
@@ -15,6 +17,7 @@ Vivian Njoroge
 *JavaScript
 
 <b>Project Reqirements</b>
+
 *Use HTML,CSS and Javascript
 
 * You should have regular git commits and the commit messages should be clear and concise.
@@ -40,6 +43,7 @@ Vivian Njoroge
 *Your project MVP should be completed within the stipulated timeline.
 
 <b>Getting Started</b>
+
 *Clone this repository from here[githubrepo](git@github.com:lihavi/Phase-1-project.git)
 
 *
