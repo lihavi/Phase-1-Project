@@ -2,7 +2,7 @@
     "trains" :[
         {
         "id": "1",
-        "train-num": "5600",
+        "train_num": "5600",
         "name": "madaraka express",
         "arriveTime":"10:00am",
         "departTime":"8:00am",
@@ -11,7 +11,7 @@
     },
     {
         "id": "2",
-        "train-num":"5601",
+        "train_num":"5601",
         "name": "DMU",
         "arriveTime":"11:40am",
         "departTime":"9:40am",
@@ -20,7 +20,7 @@
    },
    {
        "id": "3",
-       "train-num":"5602",
+       "train_num":"5602",
        "name":"Transit Shed" ,
        "arriveTime":"5:00pm",
        "departTime":"12:00pm",
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "train-num":"5603",
+      "train_num":"5603",
       "name":"NCR",
       "arriveTime":"10:15am",
       "departTime":"9:00am",
@@ -38,7 +38,7 @@
     },
     {
      "id": "5",
-     "train-num":"5604",
+     "train_num":"5604",
      "name":"SGR",
      "arriveTime":"3:00pm",
      "departTime":"8:00pm",
