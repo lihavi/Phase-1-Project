@@ -26,16 +26,102 @@
             <h3>Kenya Commute Services</h3>
             <h1>Railway<br>Transport</h1>
             <p>You are probably enthusiast for railway services.For that reason we want <br> to make it easier for you by making it possible to book tickets online. </p>
-            
-
 
         </div>
     </div>
-     
-     
+    <div id="Railway Schedule">
+        <table class="table">
+            <tr class="head">
+                <th rowspan="2">Train Number</th>
+                <th rowspan="2">Train Name</th>
+                <th colspan="2">Time</th>
+                <th colspan="2">station</th>
+            </tr>
+            <tr class="sub-head">
+                <th>Departure</th>
+                <th>Arrival</th>
+                <th>Train From</th>
+                <th>Train To</th>
+            </tr>
+        </table>
+    </div>
+        </div>
+        <div card="Hello">
+            <div class="container w-25" id="ticket-attributes">
+                <div class="row">
+                    <div class="col">
+                        <h3>Ticket Order</h3>
+                        <form id="ticket-form">
+                            <div class="form-floating mb-3">
+                                <select class="form-select" aria-label="Default Select Example" id="train-number">
+                                    <option selected>Train Number</option>
+                                    <option value="5600"></option>
+                                    <option value="5601"></option>
+                                    <option value="5602"></option>
+                                    <option value="5603"></option>
+                                    <option value="5604"></option>
+                                </select>
+                        <div class="form-floating mb-3">
+                            <select class="form-select" aria-label="Default Select Example" id="train-name">
+                                <option selected>Train Name</option>
+                                <option value="madaraka express"></option>
+                                <option value="DMU"></option>
+                                <option value="Transit Shed"></option>
+                                <option value="NCR"></option>
+                                <option value="SGR"></option>
+                            </select>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <select class="form-select" aria-lable="Default Select Example" id="departure">
+                                <option selected>Depature></option>
+                                <option value="8:00am"></option>
+                                <option value="9:40am"></option>
+                                <option value="12:00pm"></option>
+                                <option value="9:00am"></option>
+                                <option value="8:00pm"></option>
+                            </select>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="number" class="form-control" id="s-quantity" placeholder="Number Of TIckets">
+                            <label for="s-quantity">Number Of TIckets</label>
+                        </div>
+                        <button type="submit" class="btn btn-dark">Submit Order</button>
+                    </form>
+                    </div>
+                    </div>
+                    </div>
+                    <div>
+                        <p>Enter your details in the fields below,after your order then press the "Submit form" button to submit your details.</p>
+                        <form action="/action_page.php">
+                            First Name: <input type="text" name="fname"><br>
+                            Last Name: <input type="text"  name="lname"><br><br>
+                            <input id="myForm" type="button" onClick="clickAlert()" value="Submit Form">  
+                        </form>
+                    </div>
+                    <form id="comment-form" class="comment-form">
+                        <input
+                          class="comment-input"
+                          type="text"
+                          name="comment"
+                          id="comment"
+                          placeholder="Add Comment"
+                          />
+                         <button class="comment-button" type="submit">Post</button>
+                         <br><br>
+
+                    </form>
+                    
+                                    
+
+                                    
 
 
+            
 
-    <script src="./script.js"></script>
-</body>
-</html>
+                    
+
+
+  <script src="./script.js"></script>
+    </body>
+    </html>
+        
