@@ -1,0 +1,53 @@
+{
+    "trains" :[
+        {
+        "id": "1",
+        "train-num": "5600",
+        "name": "madaraka express",
+        "arriveTime":"10:00am",
+        "departTime":"8:00am",
+        "train_from":"Nairobi",
+        "train_to":"Naivasha"
+    },
+    {
+        "id": "2",
+        "train-num":"5601",
+        "name": "DMU",
+        "arriveTime":"11:40am",
+        "departTime":"9:40am",
+        "train_from":"Nanyuki",
+        "train_to":"Nairobi"
+   },
+   {
+       "id": "3",
+       "train-num":"5602",
+       "name":"Transit Shed" ,
+       "arriveTime":"5:00pm",
+       "departTime":"12:00pm",
+       "train_from":"Kisumu",
+       "train_to":"Nairobi"
+    },
+    {
+      "id": "4",
+      "train-num":"5603",
+      "name":"NCR",
+      "arriveTime":"10:15am",
+      "departTime":"9:00am",
+      "train_from":"Nairobi",
+      "train_to":"Embakasi"
+    },
+    {
+     "id": "5",
+     "train-num":"5604",
+     "name":"SGR",
+     "arriveTime":"3:00pm",
+     "departTime":"8:00pm",
+     "train_from":"Mombasa",
+     "train_to":"Nairobi"
+  }
+]
+}
+    
+    
+
+
