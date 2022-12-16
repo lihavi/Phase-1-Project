@@ -79,6 +79,7 @@ nav ul li:hover{
     
     border-color:#058283;
     background-color:rgba(173, 172, 163, 0.5)
+    
 }
 
 .head{
@@ -89,6 +90,7 @@ nav ul li:hover{
 } 
 #table-order{
     padding-top: 30px;
+    display: inline-table;
     background:linear-gradient( rgba(173, 172, 163, 0.5)50%, rgba(173, 172, 163, 0.5)50%)
   }
   #my_table{
@@ -145,9 +147,11 @@ nav ul li:hover{
 
   margin-top:3px;
   display:grid;
+  width: 700px;
+  display:inline-table;
+  background-color: rgba(173, 172, 163, 0.5);
 
 }
-  
 
 
 .comment-input{
