@@ -75,27 +75,30 @@ nav ul li:hover{
     line-height: 30px;
     letter-spacing: 1px;
 }
-#my_table{
+.table{
+    
+    border-color:#058283;
+    background-color:rgba(173, 172, 163, 0.5)
+}
+
+.head{
+    color:gray;
+}
+.sub-head{
+    color:gray;
+} 
+#table-order{
+    padding-top: 30px;
+    background:linear-gradient( rgba(173, 172, 163, 0.5)50%, rgba(173, 172, 163, 0.5)50%)
+  }
+  #my_table{
     margin-top:10px;
     margin-left:10px;
     
 }
 
-
-table, th, td {
-    border: 1px solid;
-    
-  }
-  table {
-    width: 50%;
-    table-layout: fixed;
-    border-collapse: collapse;
-    display:flex;
-    
-  }
-  
   th {
-    height: 20px;
+    height: 5px;
   }
   td {
     text-align: center;
@@ -104,18 +107,19 @@ table, th, td {
     text-align: left;
   }
   td {
-    height: 50px;
+    height: 20px;
     vertical-align: bottom;
   }
   th, td {
-    padding: 15px;
+    padding: 5px;
     text-align: left;
   }
   th, td {
     border-bottom: 1px solid #ddd;
   }
   tr:hover {background-color:#058283}
-  
+
+
 .btn{
     background-color:#058283;
     color: white;
@@ -128,13 +132,7 @@ table, th, td {
  .btn:hover{
     transform: scale(1.2);
 }
-.table{
-    border: 8px;
-    border-color: blueviolet;
-    background-color:gray;
-    top:100px;
-    background:linear-gradient( rgba(173, 172, 163, 0.5)50%, rgba(173, 172, 163, 0.5)50%)
-}
+
 
 .head{
     color:#fff;
@@ -151,10 +149,7 @@ table, th, td {
 }
   
 
-#table-order{
-  padding-top: 30px;
-  background:linear-gradient( rgba(173, 172, 163, 0.5)50%, rgba(173, 172, 163, 0.5)50%)
-}
+
 .comment-input{
     border-radius: 100px;
     
