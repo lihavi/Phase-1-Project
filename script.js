@@ -14,8 +14,8 @@ const trains = [
     {train_num:12236, trainName: "New Delhi - Dibrugarh Rajdhani Express",  departTime: 0925,},
   {train_num:12301, trainName: "Howrah - New Delhi Rajdhani Express (via Gaya)",  departTime:1655 ,},
    {train_num:12302, trainName: "New Delhi - Howrah Rajdhani Express (Via Gaya)", departTime:1655,},
-   {train_num:12305, trainName: "	Howrah - New Delhi Rajdhani Express (via Patna)",  departTime:1405,},
-   {train_num:12306, trainName: "	New Delhi - Howrah Rajdhani Express (via Patna)",  departTime:1655,}  
+   {train_num:12305, trainName: "Howrah - New Delhi Rajdhani Express (via Patna)",  departTime:1405,},
+   {train_num:12306, trainName: "New Delhi - Howrah Rajdhani Express (via Patna)",  departTime:1655,}  
 ]
 let train = {train_num, trainName, departTime}
 trains.push(train);
