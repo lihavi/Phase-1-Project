@@ -81,7 +81,6 @@ nav ul li:hover{
     background-color:rgba(173, 172, 163, 0.5)
     
 }
-
 .head{
     color:gray;
 }
@@ -96,6 +95,7 @@ nav ul li:hover{
   #my_table{
     margin-top:10px;
     margin-left:10px;
+    
     
 }
 
@@ -150,9 +150,7 @@ nav ul li:hover{
   width: 700px;
   display:inline-table;
   background-color: rgba(173, 172, 163, 0.5);
-
 }
-
 
 .comment-input{
     border-radius: 100px;

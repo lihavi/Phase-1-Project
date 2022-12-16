@@ -1,4 +1,4 @@
-<b>Kenya Commute Railway Services</b>
+<b>India Commute Railway Services</b>
 
 <b>Project Description </b>
 
@@ -47,7 +47,8 @@ Vivian Njoroge
 * Clone this repository from here[githubrepo]
 (git@github.com:lihavi/Phase-1-project.git)
 
-* 
+<b>To view this website, copy and paste this link onto your browser</b>
+https://lihavi.github.io/Phase-1-project/
 
 
 <b>License</b>
