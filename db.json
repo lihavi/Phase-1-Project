@@ -1,53 +1,58 @@
 {
-    "trains" :[
-        {
-        "id": "1",
-        "train_num": "5600",
-        "name": "madaraka express",
-        "arriveTime":"10:00am",
-        "departTime":"8:00am",
-        "train_from":"Nairobi",
-        "train_to":"Naivasha"
-    },
-    {
-        "id": "2",
-        "train_num":"5601",
-        "name": "DMU",
-        "arriveTime":"11:40am",
-        "departTime":"9:40am",
-        "train_from":"Nanyuki",
-        "train_to":"Nairobi"
-   },
-   {
-       "id": "3",
-       "train_num":"5602",
-       "name":"Transit Shed" ,
-       "arriveTime":"5:00pm",
-       "departTime":"12:00pm",
-       "train_from":"Kisumu",
-       "train_to":"Nairobi"
-    },
-    {
-      "id": "4",
-      "train_num":"5603",
-      "name":"NCR",
-      "arriveTime":"10:15am",
-      "departTime":"9:00am",
-      "train_from":"Nairobi",
-      "train_to":"Embakasi"
-    },
-    {
-     "id": "5",
-     "train_num":"5604",
-     "name":"SGR",
-     "arriveTime":"3:00pm",
-     "departTime":"8:00pm",
-     "train_from":"Mombasa",
-     "train_to":"Nairobi"
-  }
-]
+  "trains" :[
+      {
+          "id" :1,
+          "train_num": "12235",
+          "name": "Dibrugarh - New Delhi Rajdhani Express",
+          "arriveTime": "13:55 +2 nights",
+          "departTime": "19:25",
+          "train_from": "DBRG",
+          "train_to": "NDLS"
+      },
+      {
+          "id" :2,
+          "train_num": "12236",
+          "name": "New Delhi - Dibrugarh Rajdhani Express",
+          "arriveTime": "05:15 +2 nights",
+          "departTime": "09:25",
+          "train_from": "NDLS",
+          "train_to": "DBRG"
+      },
+      {
+          "id":3,
+          "train_num": "12301",
+          "name": "New Delhi - Dibrugarh Rajdhani Express",
+          "arriveTime": "10:00 +1 night",
+          "departTime": "16:55",
+          "train_from": "HWH",
+          "train_to": "NDLS"
+      },
+      {
+          "id":4,
+          "train_num": "12302",
+          "name": "New Delhi - Howrah Rajdhani Express (Via Gaya)",
+          "arriveTime": "09:50 +1 night",
+          "departTime": "16:55",
+          "train_from": "NDLS",
+          "train_to": "HWH"
+      },
+      {
+          "id":5,
+          "train_num": "12305",
+          "name": "Howrah - New Delhi Rajdhani Express (via Patna)",
+          "arriveTime": "10:00 +1 night",
+          "departTime": "14:05",
+          "train_from": "HWH",
+          "train_to": "NDLS"
+      },
+      {
+          "id":6,
+          "train_num": "12306",
+          "name": "New Delhi - Howrah Rajdhani Express (via Patna)",
+          "arriveTime": "12:15 +1 night",
+          "departTime": "16:55",
+          "train_from": "NDLS",
+          "train_to": "HWH"
+      }
+  ]
 }
-    
-    
-
-
